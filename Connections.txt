@@ -1,0 +1,24 @@
+New York, 0, Seattle, 16, Los Angeles, 15, Vancouver, 14, Dallas, 13, London, 20, Paris, 20, Berlin, 20, Dubai, 10, Beijing, 10, Moscow, 10, Kiev, 5, Sydney, 15, Tokyo, 15, Hong Kong, 15, Delhi, 10, Madrid, 15
+London, 0, New York, 25, Paris, 15, Berlin, 15, Dubai, 25, Beijing, 20, Moscow, 25, Sydney, 15, Tokyo, 10, Hong Kong, 15, Delhi, 15, Madrid, 10
+Madrid, 0, New York, 17, Paris, 16, Berlin, 18, Dubai, 5, Beijing, 5, Moscow, 10, Sydney, 5, Tokyo, 5, Hong Kong, 10
+Paris, 0, London, 25, Berlin, 20, Madrid, 10, Dubai, 7, Kiev, 10
+Berlin, 0, Amsterdam, 10, London, 17, Paris, 17, Warsaw, 6, Tokyo, 5
+Dubai, 0, Delhi, 25, Hong Kong, 25, Tokyo, 14, Sydney, 25, Beijing, 13, Berlin, 15, New York, 30, Moscow, 13
+Beijing, 0, Hong Kong, 30, Tokyo, 30, Delhi, 5, Madrid, 10, New York, 9, Berlin, 6
+Warsaw, 0, Kiev, 5, Moscow, 10, New York, 5
+Moscow, 0, Kiev, 20, London, 25, Madrid, 5, New York, 25, Berlin, 20, Beijing, 10
+Kiev, 0, Moscow, 10, Warsaw, 5, London, 5, New York, 5
+Sydney, 0, New York, 10, London, 5, Hong Kong, 25, Tokyo, 15, Dubai, 5, Madrid, 10
+Tokyo, 0, Hong Kong, 15, Beijing, 15, Sydney, 15, Delhi, 12, Madrid, 15, London, 10
+Hong Kong, 0, Beijing, 25, Tokyo, 20, London, 13, Paris, 13, Dubai, 12, Moscow, 13, Amsterdam, 12
+Delhi, 0, Beijing, 16, Tokyo, 17, Sydney, 25, New York, 25, Kiev, 3, London, 25
+Amsterdam, 0, London, 15, New York, 19, Berlin, 18, Paris, 17, Moscow, 17, Kiev, 16
+Seattle, 0, Portland, 20, Vancouver, 20, New York, 25, Los Angeles, 19, Dallas, 17, Atlanta, 14, Chicago, 15, London, 15, Moscow, 13
+Portland, 0, Seattle, 13, New York, 9, Los Angeles, 16, Atlanta, 8, Chicago, 6, Houston, 3, Washington, 16
+Los Angeles, 0, Seattle, 15, New York, 25, Portland, 13, Atlanta, 18, Houston, 7, Washington, 16
+Atlanta, 0, New York, 20, Seattle, 10, Vancouver, 3, Washington, 14, London, 25, Berlin, 10
+Houston, 0, New York, 16, Seattle, 10, Portland, 5
+Vancouver, 0, Seattle, 25, Portland, 25, New York, 10
+Chicago, 0, Portland, 3, Seattle, 5, New York, 10, Atlanta, 4, London, 5, Paris, 5
+Washington, 0, Portland, 3, New York, 5, Atlanta, 3, London, 3, Paris, 15
+Dallas, 0, New York, 5, London, 10
